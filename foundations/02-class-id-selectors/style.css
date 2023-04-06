@@ -1,0 +1,22 @@
+.class {
+    color: black;
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#id_1 {
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+}
+
+#id_2 {
+    color: black;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 20px;
+}
